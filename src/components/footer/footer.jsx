@@ -42,7 +42,7 @@ const Footer = () => {
         </div>
 
         <div className='footer__copyright'>
-            <small> &copy; designed by steve jones, All rights reserved</small>
+            <small> &copy;  All rights reserved</small>
         </div>
       </footer>
     );
